@@ -2,7 +2,7 @@
 
 <h2>🔐 CyberSecurity Projects:</h2>
 
-  - [Azure Sentinel: Live Cyber attacks](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Azure Sentinel: Live Cyber attacks](https://github.com/eleasel/Azure_Sentinel_LiveAttacks/blob/main/README.md)
   
   <h2>🔐 Software Development Projects:</h2>
   
