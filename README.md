@@ -22,7 +22,7 @@
 
 <h2>📑 Certifications</h2>
 
-  - [Google Cybersecurity Professional](https://www.credly.com/badges/85010a8a-043d-4378-8f29-a0f183133da8)
+  - [Google Cybersecurity]([https://www.credly.com/badges/85010a8a-043d-4378-8f29-a0f183133da8](https://www.coursera.org/account/accomplishments/professional-cert/77JXZM4S6QVR))
   - [Google IT Support Professional](https://www.credly.com/badges/85010a8a-043d-4378-8f29-a0f183133da8)
   - [Cisco Certified CyberOps Associate - CCNA CyberOps](https://www.credly.com/badges/85010a8a-043d-4378-8f29-a0f183133da8)
   - [Cisco Certified Network Associate Routing and Switching - CCNA](https://www.credly.com/badges/d1dc102c-9c5d-48a8-a255-0ef0c30527af/public_url)
