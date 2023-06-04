@@ -22,8 +22,9 @@
 
 <h2>📑 Certifications</h2>
 
-  - [Google Cybersecurity](https://www.coursera.org/account/accomplishments/professional-cert/77JXZM4S6QVR)
-  - [Google IT Support Professional](https://www.credly.com/badges/85010a8a-043d-4378-8f29-a0f183133da8)
+  - [Google IT Automation with Python Professional Certificate](https://www.credly.com/badges/a32d6f8d-640f-4059-b461-d089b89dea67/public_url)
+  - [Google Cybersecurity Professional](https://www.credly.com/badges/97b495a8-dfb2-4dff-8e8d-95d32ef61068/public_url)
+  - [Google IT Support Professional](https://www.credly.com/badges/a32d6f8d-640f-4059-b461-d089b89dea67/public_url)
   - [Cisco Certified CyberOps Associate - CCNA CyberOps](https://www.credly.com/badges/85010a8a-043d-4378-8f29-a0f183133da8)
   - [Cisco Certified Network Associate Routing and Switching - CCNA](https://www.credly.com/badges/d1dc102c-9c5d-48a8-a255-0ef0c30527af/public_url)
   - [Comptia Network+](https://www.credly.com/badges/85010a8a-043d-4378-8f29-a0f183133da8)
