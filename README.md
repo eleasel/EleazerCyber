@@ -7,7 +7,7 @@
   <h2>🔐 Software Development Projects:</h2>
   
   - <b>Python</b>
-    - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+    - [Update a file through a Python algorithm!](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>Powershell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
