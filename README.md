@@ -10,7 +10,7 @@
     - [Update a file through a Python algorithm!](https://github.com/eleasel/PythonFileUpdate/blob/main/README.md)
   
  - <b>SQL</b>
-    - [Apply filters to SQL queries!](https://github.com/eleasel/PythonFileUpdate/blob/main/README.md)
+    - [Apply filters to SQL queries!](https://github.com/eleasel/SQLQuery/blob/main/README.md)
   
 - <b>Powershell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
