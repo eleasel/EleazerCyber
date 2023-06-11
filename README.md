@@ -25,7 +25,6 @@
 
 <h2>📑 Certifications</h2>
 
-  - [Google IT Automation with Python Professional Certificate](https://www.credly.com/badges/a32d6f8d-640f-4059-b461-d089b89dea67/public_url)
   - [Google Cybersecurity Professional](https://www.credly.com/badges/97b495a8-dfb2-4dff-8e8d-95d32ef61068/public_url)
   - [Google IT Support Professional](https://www.credly.com/badges/a32d6f8d-640f-4059-b461-d089b89dea67/public_url)
   - [(ISC)² CC](https://www.credly.com/badges/695215a1-caf6-4f56-8f99-92ac3404dad9)
