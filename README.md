@@ -8,8 +8,8 @@
   
   - <b>Python</b>
     - [Update a file through a Python algorithm!](https://github.com/eleasel/PythonFileUpdate/blob/main/README.md)
-    - [PyScan: Multi-threaded Port Scanner](https://github.com/eleasel/PyScan/blob/main/README.md))
-  
+    - [PyScan: Multi-threaded Port Scanner](https://github.com/eleasel/PyScan)
+    - [Network Troubleshooting Tool](https://github.com/eleasel/Pytshoot)  
  - <b>SQL</b>
     - [Apply filters to SQL queries!](https://github.com/eleasel/SQLQuery/blob/main/README.md)
   
