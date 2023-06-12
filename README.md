@@ -8,7 +8,7 @@
   
   - <b>Python</b>
     - [Update a file through a Python algorithm!](https://github.com/eleasel/PythonFileUpdate/blob/main/README.md)
-    - [PyScan: Multi-threaded Port Scanner](https://github.com/eleasel/PyScan/edit/main/README.md)
+    - [PyScan: Multi-threaded Port Scanner](https://github.com/eleasel/PyScan/blob/main/README.md))
   
  - <b>SQL</b>
     - [Apply filters to SQL queries!](https://github.com/eleasel/SQLQuery/blob/main/README.md)
