@@ -19,7 +19,7 @@
 
 <h2>🌏 Web Projects:</h2>
 
-  - [Amend Aliyah Website](https://https://amendaliyah.com/)
+  - [Amend Aliyah Website](https://amendaliyah.com/)
   
 
 <h2>📑 Certifications</h2>
