@@ -16,7 +16,7 @@
 - <b>Powershell</b>
   
   - [JWipe (Disk Wiping Utility)](https://github.com/eleasel/JWipePS/blob/main/README.md)
-  - [(Back up an Azure virtual machine)](https://github.com/eleasel/AzureBackup))
+  - [Back up an Azure virtual machine](https://github.com/eleasel/AzureBackup))
 
 <h2>🌏 Web Projects:</h2>
 
