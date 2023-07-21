@@ -16,6 +16,7 @@
 - <b>Powershell</b>
   
   - [JWipe (Disk Wiping Utility)](https://github.com/eleasel/JWipePS/blob/main/README.md)
+  - [JWipe (Back up an Azure virtual machine)](https://github.com/eleasel/AzureBackup))
 
 <h2>🌏 Web Projects:</h2>
 
@@ -29,8 +30,8 @@
   - [(ISC)² CC](https://www.credly.com/badges/695215a1-caf6-4f56-8f99-92ac3404dad9)
   - [Cisco Certified CyberOps Associate - CCNA CyberOps](https://www.credly.com/badges/85010a8a-043d-4378-8f29-a0f183133da8)
   - [Cisco Certified Network Associate Routing and Switching - CCNA](https://www.credly.com/badges/d1dc102c-9c5d-48a8-a255-0ef0c30527af/public_url)
-  - [Microsoft AZ-900](JULY 2023)
-  - [Splunk Ccore Certified User](JULY 2023)
+  - [Microsoft AZ-900](August 2023)
+  - [Splunk Ccore Certified User](August 2023)
 
 <!--
 **eleasel/EleazerCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
